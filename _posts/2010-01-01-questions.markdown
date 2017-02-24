@@ -22,7 +22,7 @@ category: questions
       <div class="collapsible-body"><iframe width="100%" height="315" src="https://www.youtube.com/embed/jj-F6YVtsxI?list=PLV8eqWoGXke5D5bmwscUhow1RJKWZmMRZ" frameborder="0" allowfullscreen></iframe></div>
     </li>
     <li>
-      <div class="collapsible-header"><i class="material-icons">ondemand_video</i>Want to see some examples of undergraduate research projects at UCLA? <em>From the lab to the studio</em> shows how UCLA students are exploring their passions in their research:</div>
+      <div class="collapsible-header"><i class="material-icons">ondemand_video</i>Want to see some examples of undergraduate research projects at UCLA? <em>From the lab to the studio</em> shows how Oklahoma State students are exploring their passions in their research:</div>
       <div class="collapsible-body"><iframe width="100%" height="315" src="https://www.youtube.com/embed/ZEoosFwqi-Q?list=PLV8eqWoGXke5D5bmwscUhow1RJKWZmMRZ" frameborder="0" allowfullscreen></iframe></div>
     </li>
     <li>
